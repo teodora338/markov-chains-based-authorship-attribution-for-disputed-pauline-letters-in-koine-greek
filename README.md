@@ -1,4 +1,4 @@
-# Markov Chains Based Authorship Attribution for Disputed Pauline Letters in Koine Greek
+# Stochastic Processes Project - Markov Chains Based Authorship Attribution for Disputed Pauline Letters in Koine Greek
 
 For more details, read the paper at the following link:
 
